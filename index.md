@@ -29,10 +29,3 @@ June 7th and 8th, 2021
 | 04:00 - 06:00 | Visualizations in R                         |
 | 06:00 - 08:00 | Documenting Research                        |
 
-
-| head1        | head two          |
-|:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop |
