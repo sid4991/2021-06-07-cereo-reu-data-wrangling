@@ -12,6 +12,7 @@ June 7th and 8th, 2021
 ## Schedule
 
 ### Day 1
+
 | Time          | Topic                                       |
 |:--------------|:--------------------------------------------|
 | 00:00 - 01:00 | Introduction to Data-Intensive Research     |
@@ -20,6 +21,7 @@ June 7th and 8th, 2021
 | 05:00 - 08:00 | Introduction to R                           |
 
 ### Day 2
+
 | Time          | Topic                                       |
 |:--------------|:--------------------------------------------|
 | 00:00 - 02:00 | Data Organization                           |
