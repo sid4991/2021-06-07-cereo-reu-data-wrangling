@@ -13,7 +13,7 @@ June 7th and 8th, 2021
 
 ### Day 1
 | Time | Topic |
-| ---- | ---- |
+|----|----|
 | 00:00 - 01:00 | Introduction to Data-Intensive Research |
 | 01:00 - 03:00 | Managing Data |
 | 03:00 - 05:00 | Introduction to Reproducible Data Cleaning |
@@ -21,17 +21,9 @@ June 7th and 8th, 2021
 
 ### Day 2
 | Time | Topic |
-| ---- | ---- |
+|----|----|
 | 00:00 - 02:00 | Data Organization |
 | 02:00 - 04:00 | Data Analysis in R |
 | 04:00 - 06:00 | Visualizations in R |
-| 06:00 - 08:00 | Session 6: Documenting Research |
+| 06:00 - 08:00 | Documenting Research |
 
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
