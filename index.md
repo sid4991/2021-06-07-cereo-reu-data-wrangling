@@ -26,3 +26,12 @@ June 7th and 8th, 2021
 | 02:00 - 04:00 | Data Analysis in R |
 | 04:00 - 06:00 | Visualizations in R |
 | 06:00 - 08:00 | Session 6: Documenting Research |
+
+
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
