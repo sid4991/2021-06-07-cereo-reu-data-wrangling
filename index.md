@@ -2,6 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 permalink: /
 ---
+
+# CEREO REU Data Wranging Workshop
+
+June 7th and 8th, 2021
+
+## Schedule
