@@ -11,6 +11,15 @@ nav_order: 2
 - Specialties
 - Sections theyre teaching
 
+## Matthew Brousil
+
+## Alex Kappes
+
+## Michael Meyer 
+
+## Sarah Murphy
+
+
 # Thank you to our helpers!
 
 - List helpers and any socials they might want here
