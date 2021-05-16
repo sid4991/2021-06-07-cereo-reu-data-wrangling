@@ -7,7 +7,7 @@ permalink: /
 
 # CEREO REU Data Wrangling Workshop
 
-June 7th and 8th, 2021
+June 7th - 9th, 2021
 
 ## Schedule
 
