@@ -16,7 +16,7 @@ June 7th and 8th, 2021
 | Time          | Topic  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |:--------------|:--------------------------------------------|
 | 12:30 - 12:45 | Welcome                                     |
-| 12:45 - 01:30 | Introduction to Data-Intensive Research     |
+| 12:45 - 01:30 | Introduction to Data-Intensive Research and Public Data Resources |
 | 01:30 - 01:45 | Coffee Break                                |
 | 01:45 - 03:15 | Introduction to Spreadsheets                |
 | 03:15 - 03:30 | Coffee Break                                |
