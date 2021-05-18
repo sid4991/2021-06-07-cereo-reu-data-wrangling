@@ -19,8 +19,13 @@ Sections: Intro to R, Data Organization with R
 ## Michael Meyer 
 Sections: Intro to Data-Intensive Research and Public Data Resources, Basic Data Analysis in R
 
+
 ## Sarah Murphy
-Sections: Documenting Research with R
+!(https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/IMG_79071.JPG?raw=true)
+**Sections**: Documenting Research with R
+**Specialities**: Markdown, GitHub, Python
+**Contact**: Sarah.Y.Murphy@wsu.edu / https://sarahymurphy.github.io/
+
 
 ## Yvonne Thompson 
 Sections: Data Visualization in R
