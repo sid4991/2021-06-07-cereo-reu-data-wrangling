@@ -21,6 +21,7 @@ June 7th - 9th, 2021
 | 01:45 - 03:15 | Introduction to Spreadsheets                |
 | 03:15 - 03:30 | Coffee Break                                |
 | 03:30 - 04:30 | Managing and Cleaning Data Reproducibly     |
+| 04:30 - 04:30 | Closing                                     |
 
 ### Day 2 - June 8th
 
