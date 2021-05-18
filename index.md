@@ -33,6 +33,7 @@ June 7th - 9th, 2021
 | 01:30 - 03:15 | Basic Data Analysis in R                    |
 | 03:15 - 03:30 | Coffee Break                                |
 | 03:30 - 04:30 | Data Visualization in R                     |
+| 04:30 - 04:30 | Closing                                     |
 
 ### Day 3 - June 9th
 
