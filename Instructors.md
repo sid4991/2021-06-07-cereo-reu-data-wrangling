@@ -7,7 +7,10 @@ nav_order: 2
 # Instructors
 
 ## Matthew Brousil
-<b>Sections</b>: Intro to Spreadsheets, Managing and Cleaning Data Reproducibly
+<img src="https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/IMG_6598.jpg?raw=true" alt="Matthew" width="400"/><br>
+<b>Sections</b>: Intro to Spreadsheets, Managing and Cleaning Data Reproducibly<br>
+<b>Specialties</b>:<br>
+<b>Contact</b>:<br><br>
 
 ## Alex Kappes
 <b>Sections</b>: Intro to R, Data Organization with R
