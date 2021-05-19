@@ -9,8 +9,8 @@ nav_order: 2
 ## Matthew Brousil
 <img src="https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/IMG_6598.jpg?raw=true" alt="Matthew" width="400"/><br>
 <b>Sections</b>: Intro to Spreadsheets, Managing and Cleaning Data Reproducibly<br>
-<b>Specialties</b>:<br>
-<b>Contact</b>:<br><br>
+<b>Specialties</b>: R, R Markdown, Data Management<br>
+<b>Contact</b>: [https://labs.wsu.edu/hampton/people/matthew-brousil/](https://labs.wsu.edu/hampton/people/matthew-brousil/)<br><br>
 
 ## Alex Kappes
 <b>Sections</b>: Intro to R, Data Organization with R
