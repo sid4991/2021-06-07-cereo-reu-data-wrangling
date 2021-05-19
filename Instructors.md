@@ -1,5 +1,5 @@
 ---
-title: Instructors
+title: Instructors & Helpers
 has_children: false
 nav_order: 2
 ---
