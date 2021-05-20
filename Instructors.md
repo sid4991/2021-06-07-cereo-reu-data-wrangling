@@ -33,4 +33,6 @@ nav_order: 2
 # Thank you to our helpers!
 
 ## Ames Fowler
-
+<img src="https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/headshot_filter.jpg?raw=true" alt="Ames" width="400"/><br>
+<b>Specialties</b>: R, System Dynamics, Hydrologic modeling<br>
+<b>Contact</b>: Ames.Fowler@wsu.edu / Twitter: [@FowlerAmes](https://twitter.com/FowlerAmes)<br>
