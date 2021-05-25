@@ -5,6 +5,7 @@ nav_order: 3
 ---
 
 ### [Click here to take the pre-workshop survey!](https://forms.gle/JGFbnvTNYdbC2KtW7)
+<br>
 
 # Pre-Workshop Optional Tutorials 
 - [Basic intro to R for those who want to get ahead](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-1/)
