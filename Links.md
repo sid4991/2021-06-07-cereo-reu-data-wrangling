@@ -4,10 +4,12 @@ has_children: false
 nav_order: 3
 ---
 
-# Pre-Workshop Optional Tutorials 
+### [Click here to take the pre-workshop survey!](https://forms.gle/JGFbnvTNYdbC2KtW7)
 
+# Pre-Workshop Optional Tutorials 
+- [Basic intro to R for those who want to get ahead](https://rladiessydney.org/courses/ryouwithme/01-basicbasics-1/)
+- [A more in-depth intro](https://moderndive.netlify.app/1-getting-started.html)
+- [Linear regression example with R](https://sarahymurphy.github.io/2021-06-07-cereo-reu-data-wrangling/installation_instructions.md)
 
 # In-Workshop Links
-- Collaborative Document
-- The Dataset
-
+- [Dataset](https://drive.google.com/drive/folders/1daukvK2W2Pwvnp-_5aQknsL_BoyVaxCd?usp=sharing)
