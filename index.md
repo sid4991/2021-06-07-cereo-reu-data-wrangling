@@ -9,6 +9,8 @@ permalink: /
 
 June 7th - 9th, 2021
 
+### [Click here to take the pre-workshop survey!](https://forms.gle/JGFbnvTNYdbC2KtW7)
+
 ## Schedule
 
 ### Day 1 - June 7th
