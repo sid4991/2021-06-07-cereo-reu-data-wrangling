@@ -25,10 +25,13 @@ nav_order: 2
 <img src="https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/IMG_79071.JPG?raw=true" alt="Sarah" width="400"/><br>
 <b>Sections</b>: Documenting Research with R<br>
 <b>Specialties</b>: Markdown, GitHub, Python<br>
-<b>Contact</b>: Sarah.Y.Murphy@wsu.edu / [https://sarahymurphy.github.io/](https://sarahymurphy.github.io/)<br>
+<b>Contact</b>: Sarah.Y.Murphy@wsu.edu / [https://sarahymurphy.github.io/](https://sarahymurphy.github.io/)<br><br>
 
 ## Yvonne Thompson 
-<b>Sections</b>: Data Visualization in R
+<img src="https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/YvonneThompson.jpg?raw=true" alt="Yvonne" width="400"/><br>
+<b>Sections</b>: Data Visualization in R<br>
+<b>Specialities</b>: R, R Markdown, Statistical Genomics, Statistics<br>
+<b>Contact</b>: yvonne.manning@wsu.edu<br><br>
 
 # Thank you to our helpers!
 
