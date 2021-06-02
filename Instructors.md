@@ -13,7 +13,10 @@ nav_order: 2
 <b>Contact</b>: [https://labs.wsu.edu/hampton/people/matthew-brousil/](https://labs.wsu.edu/hampton/people/matthew-brousil/)<br><br>
 
 ## Alex Kappes
+<img src="https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/RoS.jpg?raw=true" alt="Alex" width="400"/><br>
 <b>Sections</b>: Intro to R, Data Organization with R
+<b>Specialties</b>: 
+<b>Contact</b>: Twitter: [@alex_kappes341](https://twitter.com/alex_kappes341)<br><br>
 
 ## Michael Meyer 
 <img src="https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/IMG_2323.jpg?raw=true" alt="Michael" width="400"/><br>
