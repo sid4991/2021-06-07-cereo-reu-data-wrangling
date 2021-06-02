@@ -14,8 +14,8 @@ nav_order: 2
 
 ## Alex Kappes
 <img src="https://github.com/sarahymurphy/2021-06-07-cereo-reu-data-wrangling/blob/master/InstructorPhotos/RoS.jpg?raw=true" alt="Alex" width="400"/><br>
-<b>Sections</b>: Intro to R, Data Organization with R
-<b>Specialties</b>: 
+<b>Sections</b>: Intro to R, Data Organization with R<br>
+<b>Specialties</b>: <br>
 <b>Contact</b>: Twitter: [@alex_kappes341](https://twitter.com/alex_kappes341)<br><br>
 
 ## Michael Meyer 
