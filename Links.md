@@ -1,5 +1,5 @@
 ---
-title: Links
+title: Workshop data files & shared documents
 has_children: false
 nav_order: 3
 ---
