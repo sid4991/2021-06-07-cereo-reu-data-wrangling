@@ -32,7 +32,7 @@ June 7th - 9th, 2021
 | 09:00 AM - 10:45 AM | Introduction to R                           |
 | 10:45 AM - 11:00 AM | Coffee Break                                |
 | 11:00 AM - 12:30 PM | Data Organization with R                    |
-| 12:00 PM - 01:30 PM | Lunch Break                                 |
+| 12:30 PM - 01:30 PM | Lunch Break                                 |
 | 01:30 PM - 03:15 PM | Basic Data Analysis in R                    |
 | 03:15 PM - 03:30 PM | Coffee Break                                |
 | 03:30 PM - 04:30 PM | Data Visualization in R                     |
