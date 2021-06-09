@@ -47,5 +47,8 @@ June 7th - 9th, 2021
 | 11:15 AM - 11:30 AM | Closing                                     |
 
 
+#### Day 4 optional homework:
 
+Replicate [this page](https://sarahymurphy.github.io/2021-06-07-cereo-reu-data-wrangling/RMarkdown_Practice.html) in R Markdown. [This is the dataset used](https://drive.google.com/file/d/1McYbJ-esSioLnySEBbZpxSCVi7hoH9CD/view?usp=sharing). It is April 2021 precipitation data for Pullman, WA.
 
+The source document containing the answers can be downloaded [here](https://drive.google.com/file/d/1NwYw9WF5EyEDPosgp5etel_tek4SsqU9/view?usp=sharing).
